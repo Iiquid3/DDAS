@@ -2,3 +2,29 @@
 2024-11-12 18:50:55,073 - INFO - Removed duplicate: C:\Code Workspace\DDAS\testdir\file4.txt
 2024-11-12 18:50:55,073 - INFO - Removed duplicate: C:\Code Workspace\DDAS\testdir\file5.txt
 2024-11-12 18:50:55,073 - INFO - Total duplicates removed: 2
+2024-11-12 19:13:51,846 - INFO - User chose to send duplicates to trash.
+2024-11-12 19:13:51,847 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
+2024-11-12 19:13:51,849 - INFO - Total files scanned: 3
+2024-11-12 19:13:51,850 - INFO - Total duplicates removed: 0
+2024-11-12 19:14:07,728 - INFO - User chose to permanently delete duplicates.
+2024-11-12 19:14:07,729 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
+2024-11-12 19:14:07,730 - INFO - Total files scanned: 3
+2024-11-12 19:14:07,730 - INFO - Total duplicates removed: 0
+2024-11-12 19:14:38,390 - INFO - User chose to send duplicates to trash.
+2024-11-12 19:14:38,391 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
+2024-11-12 19:14:38,392 - INFO - Total files scanned: 3
+2024-11-12 19:14:38,392 - INFO - Total duplicates removed: 0
+2024-11-12 19:20:35,458 - INFO - User chose to send duplicates to trash.
+2024-11-12 19:20:35,459 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
+2024-11-12 19:20:35,461 - INFO - Total files scanned: 3
+2024-11-12 19:20:35,461 - INFO - Total duplicates removed: 0
+2024-11-12 19:21:16,461 - INFO - User chose to send duplicates to trash.
+2024-11-12 19:21:16,462 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
+2024-11-12 19:21:16,463 - INFO - Total files scanned: 3
+2024-11-12 19:21:16,464 - INFO - Total duplicates removed: 0
+2024-11-12 19:21:50,432 - INFO - User chose to send duplicates to trash.
+2024-11-12 19:21:50,432 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
+2024-11-12 19:21:50,433 - INFO - Total files scanned: 5
+2024-11-12 19:21:50,492 - INFO - Moved duplicate to trash: C:\Code Workspace\DDAS\testdir\file4.txt
+2024-11-12 19:21:50,520 - INFO - Moved duplicate to trash: C:\Code Workspace\DDAS\testdir\file5.txt
+2024-11-12 19:21:50,520 - INFO - Total duplicates removed: 2
