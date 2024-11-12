@@ -1,0 +1,4 @@
+2024-11-12 18:50:55,069 - INFO - Scanning directory: C:\Code Workspace\DDAS\testdir
+2024-11-12 18:50:55,073 - INFO - Removed duplicate: C:\Code Workspace\DDAS\testdir\file4.txt
+2024-11-12 18:50:55,073 - INFO - Removed duplicate: C:\Code Workspace\DDAS\testdir\file5.txt
+2024-11-12 18:50:55,073 - INFO - Total duplicates removed: 2
