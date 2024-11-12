@@ -28,3 +28,9 @@
 2024-11-12 19:21:50,492 - INFO - Moved duplicate to trash: C:\Code Workspace\DDAS\testdir\file4.txt
 2024-11-12 19:21:50,520 - INFO - Moved duplicate to trash: C:\Code Workspace\DDAS\testdir\file5.txt
 2024-11-12 19:21:50,520 - INFO - Total duplicates removed: 2
+2024-11-12 19:24:56,871 - INFO - User chose to send duplicates to trash.
+2024-11-12 19:24:56,872 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
+2024-11-12 19:24:56,873 - INFO - Total files scanned: 5
+2024-11-12 19:24:56,924 - INFO - Moved duplicate to trash: C:\Code Workspace\DDAS\testdir\file4.txt
+2024-11-12 19:24:56,940 - INFO - Moved duplicate to trash: C:\Code Workspace\DDAS\testdir\file5.txt
+2024-11-12 19:24:56,940 - INFO - Total duplicates removed: 2
