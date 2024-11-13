@@ -49,3 +49,13 @@
 2024-11-12 19:34:11,697 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
 2024-11-12 19:34:11,698 - INFO - Total files scanned: 3
 2024-11-12 19:34:11,698 - INFO - Total duplicates removed: 0
+2024-11-13 16:24:07,124 - INFO - User chose to send duplicates to trash.
+2024-11-13 16:24:07,127 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
+2024-11-13 16:24:07,131 - INFO - Total files scanned: 5
+2024-11-13 16:24:07,259 - INFO - Moved duplicate to trash: C:\Code Workspace\DDAS\testdir\file4.txt
+2024-11-13 16:24:07,292 - INFO - Moved duplicate to trash: C:\Code Workspace\DDAS\testdir\file5.txt
+2024-11-13 16:24:07,293 - INFO - Total duplicates removed: 2
+2024-11-13 16:24:27,884 - INFO - User chose to permanently delete duplicates.
+2024-11-13 16:24:27,886 - INFO - Starting scan of directory: C:\Code Workspace\DDAS\testdir
+2024-11-13 16:24:27,887 - INFO - Total files scanned: 3
+2024-11-13 16:24:27,888 - INFO - Total duplicates removed: 0
